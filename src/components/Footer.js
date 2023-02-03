@@ -21,7 +21,7 @@ export const Footer = () => {
               <a href="https://twitter.com/juneDebugs"><img src={navIcon2} alt="Icon" /></a>
               <a href="#"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p>June Cho. Copyright 2023. All Rights Reserved</p>
+            <p>june cho. copyright 2023. all rights reserved</p>
           </Col>
         </Row>
       </Container>
