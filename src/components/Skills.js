@@ -39,7 +39,7 @@ export const Skills = () => {
                         <p>"If you want to master something, teach it.”<br></br>I find inspiration through conversations with individuals from the design and developer community. </p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter4} alt="Image" />
+                                <img src={meter1} alt="Image" />
                                 <h5>Gitkon</h5>
                             </div>
                             <div className="item">
