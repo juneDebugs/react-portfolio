@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.72f57bda.css",
+    "main.js": "/react-portfolio/static/js/main.e77ad715.js",
+    "static/js/787.fb771931.chunk.js": "/react-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/react-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/react-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.png": "/react-portfolio/static/media/header-img.7fe4d58c715c99e29619.png",
+    "static/media/project-img1.png": "/react-portfolio/static/media/project-img1.45f4518684bd49cca41d.png",
+    "static/media/project-img2.png": "/react-portfolio/static/media/project-img2.45f4518684bd49cca41d.png",
+    "static/media/project-img3.png": "/react-portfolio/static/media/project-img3.45f4518684bd49cca41d.png",
+    "static/media/contact-img.png": "/react-portfolio/static/media/contact-img.4b6123b8671bb71d98b8.png",
+    "static/media/CentraNo2-Bold.ttf": "/react-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/react-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/react-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/banner-bg.png": "/react-portfolio/static/media/banner-bg.d831612d25ff5d8f2768.png",
+    "static/media/footer-bg.png": "/react-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/meter2.png": "/react-portfolio/static/media/meter2.c6e66e5848e2d18d8b2d.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.7e976853c9e3cd1bcb8f.png",
+    "static/media/meter1.svg": "/react-portfolio/static/media/meter1.ae7de2ac7b5bd08dda7e53ab632fc861.svg",
+    "static/media/revicons.eot": "/react-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/meter4.svg": "/react-portfolio/static/media/meter4.cf99bc2cbb391cdd2d2d5da87ebfce49.svg",
+    "static/media/revicons.woff": "/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter3.svg": "/react-portfolio/static/media/meter3.fdd1b048e6941dc60d520572043e878f.svg",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/react-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/react-portfolio/static/media/nav-icon2.4d3c497518f671a78f72a2ecd98afeac.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/react-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/react-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/react-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.72f57bda.css.map": "/react-portfolio/static/css/main.72f57bda.css.map",
+    "main.e77ad715.js.map": "/react-portfolio/static/js/main.e77ad715.js.map",
+    "787.fb771931.chunk.js.map": "/react-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f57bda.css",
+    "static/js/main.e77ad715.js"
+  ]
+}
