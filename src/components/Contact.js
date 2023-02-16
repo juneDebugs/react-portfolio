@@ -48,11 +48,11 @@ export const Contact = () => {
       <Container>
         <Row className="align-items-center">
           <Col size={12} md={6}>
-            <TrackVisibility>
+            {/* <TrackVisibility>
               {({ isVisible }) =>
-                <img className={isVisible ? "" : ""} src={contactImg} alt="Contact Us"/>
+                <img className={isVisible ? "animate__slideInUp" : ""} src={contactImg} alt="Contact Us"/>
               }
-            </TrackVisibility>
+            </TrackVisibility> */}
           </Col>
           <Col size={12} md={6}>
             <TrackVisibility>
